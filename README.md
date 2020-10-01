@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Install the application uisng below script.
+## Install the application using below script.
 
 ### npm i
 
